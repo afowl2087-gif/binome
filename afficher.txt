@@ -1,2 +1,1 @@
-hello*
-Salut Midelio
+Midelio et moi sommes des pros de git!
